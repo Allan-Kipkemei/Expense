@@ -4,7 +4,7 @@ import { Analytics } from '@vercel/analytics/next';
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "Ten Cents",
+  title: "Ten bucks",
   description: "Analyze your financial flow",
   icons: {
     icon: '/tencents.png',
